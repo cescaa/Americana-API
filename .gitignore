@@ -12,7 +12,11 @@ coverage/
 dist/
 build/
 .eslintcache
+node_modules/
+.DS_Store
 
 # Editors/OS
 .idea/
 Thumbs.db
+
+.env
